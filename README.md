@@ -1,4 +1,4 @@
-# Slot-Machine
+# Slot Machine Simulation
 
 This Python code simulates a simple slot machine game. The player can deposit money, choose the number of lines to bet on, and the bet amount for each line. The slot machine will then randomly generate a set of symbols for each line and determine the winnings based on matching symbols on the same line.
 
